@@ -123,10 +123,6 @@ This flow demonstrates how the system intelligently routes your requests to the 
 
 This flow demonstrates how the system not only routes requests to the appropriate agent, but also enforces guardrails to keep the conversation focused on airline-related topics and prevent attempts to bypass system instructions.
 
-## Contributing
-
-You are welcome to open issues or submit PRs to improve this app, however, please note that we may not review all suggestions.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
